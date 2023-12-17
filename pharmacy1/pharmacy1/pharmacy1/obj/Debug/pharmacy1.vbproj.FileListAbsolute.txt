@@ -1,0 +1,16 @@
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe.config
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\bin\Debug\pharmacy1.exe
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\bin\Debug\pharmacy1.pdb
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\bin\Debug\pharmacy1.xml
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.vbproj.AssemblyReference.cache
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form1.resources
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form2.resources
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Resources.resources
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.vbproj.GenerateResource.cache
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.vbproj.CoreCompileInputs.cache
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.exe
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.xml
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.pdb
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form3.resources
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form4.resources
+D:\Projects SQL MET\pharmacy1\pharmacy1\pharmacy1\obj\Debug\pharmacy1.Form5.resources

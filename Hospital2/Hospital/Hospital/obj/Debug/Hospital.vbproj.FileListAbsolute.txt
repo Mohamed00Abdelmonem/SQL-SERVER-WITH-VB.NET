@@ -1,0 +1,15 @@
+D:\Projects SQL MET\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\Projects SQL MET\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\Projects SQL MET\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\Projects SQL MET\Hospital\Hospital\Hospital\bin\Debug\Hospital.xml
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.vbproj.AssemblyReference.cache
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.Resources.resources
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.vbproj.GenerateResource.cache
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.vbproj.CoreCompileInputs.cache
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.xml
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form3.resources
+D:\Projects SQL MET\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form4.resources

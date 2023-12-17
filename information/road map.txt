@@ -1,0 +1,13 @@
+
+project 1 :
+    صيدليه 
+    	make code sql in sqlserver 
+	relation vb.net to sqlserver
+	make sheet ERD in paper 
+
+project 2 : 
+    مكتبه 
+
+    	make code sql in sqlserver 
+	relation vb.net to sqlserver
+	make sheet ERD in paper 

@@ -1,0 +1,15 @@
+D:\Projects SQL MET\Super_market\Super_market\Super_market\bin\Debug\Super_market.exe.config
+D:\Projects SQL MET\Super_market\Super_market\Super_market\bin\Debug\Super_market.exe
+D:\Projects SQL MET\Super_market\Super_market\Super_market\bin\Debug\Super_market.pdb
+D:\Projects SQL MET\Super_market\Super_market\Super_market\bin\Debug\Super_market.xml
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.vbproj.AssemblyReference.cache
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.Form1.resources
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.Form2.resources
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.Resources.resources
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.vbproj.GenerateResource.cache
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.vbproj.CoreCompileInputs.cache
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.exe
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.xml
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.pdb
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.Form3.resources
+D:\Projects SQL MET\Super_market\Super_market\Super_market\obj\Debug\Super_market.Form4.resources

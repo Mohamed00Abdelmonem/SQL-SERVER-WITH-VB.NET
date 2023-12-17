@@ -1,0 +1,15 @@
+D:\Projects SQL MET\school\school\school\bin\Debug\school.exe.config
+D:\Projects SQL MET\school\school\school\bin\Debug\school.exe
+D:\Projects SQL MET\school\school\school\bin\Debug\school.pdb
+D:\Projects SQL MET\school\school\school\bin\Debug\school.xml
+D:\Projects SQL MET\school\school\school\obj\Debug\school.vbproj.AssemblyReference.cache
+D:\Projects SQL MET\school\school\school\obj\Debug\school.Form1.resources
+D:\Projects SQL MET\school\school\school\obj\Debug\school.Form2.resources
+D:\Projects SQL MET\school\school\school\obj\Debug\school.Resources.resources
+D:\Projects SQL MET\school\school\school\obj\Debug\school.vbproj.GenerateResource.cache
+D:\Projects SQL MET\school\school\school\obj\Debug\school.vbproj.CoreCompileInputs.cache
+D:\Projects SQL MET\school\school\school\obj\Debug\school.exe
+D:\Projects SQL MET\school\school\school\obj\Debug\school.xml
+D:\Projects SQL MET\school\school\school\obj\Debug\school.pdb
+D:\Projects SQL MET\school\school\school\obj\Debug\school.Form3.resources
+D:\Projects SQL MET\school\school\school\obj\Debug\school.Form4.resources
