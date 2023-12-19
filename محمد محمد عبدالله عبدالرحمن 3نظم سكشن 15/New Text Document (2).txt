@@ -1,0 +1,60 @@
+Imports System.Data.SqlClient
+Imports System.Windows.Forms.VisualStyles.VisualStyleElement
+
+Public Class form1
+    Dim connectionstring As String = "data source = DESKTOP-SRVUO8M ; initial catalog = school ;
+         integrated security=true"
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim insertQuery As String = "INSERT INTO  students (id,name,age,phone)
+     ValueS(@id,@name,@age,@phone)"
+        Using connection As New SqlConnection(connectionstring)
+            Using command As New SqlCommand(insertQuery, connection)
+
+                command.Parameters.AddWithValue("@id", CInt(TextBox1.Text))
+                command.Parameters.AddWithValue("@name", TextBox2.Text)
+                command.Parameters.AddWithValue("@age", CInt(TextBox3.Text))
+                command.Parameters.AddWithValue("@phone", TextBox4.Text)
+
+                connection.Open()
+                command.ExecuteNonQuery()
+                MessageBox.Show("data inserted successfully!")
+                connection.Close()
+
+            End Using
+        End Using
+
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim deleteQuery As String = "delete from students where id =@id"
+        Using connection As New SqlConnection(connectionstring)
+            Using command As New SqlCommand(deleteQuery, connection)
+
+                command.Parameters.AddWithValue("@id", CInt(TextBox1.Text))
+                connection.Open()
+                command.ExecuteNonQuery()
+                MessageBox.Show(" successfully delete")
+                connection.Close()
+            End Using
+        End Using
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+
+        Dim selectQuery As String = "select * from students "
+        Using connection As New SqlConnection(connectionstring)
+            Using command As New SqlCommand(selectQuery, connection)
+                connection.Open()
+                Using reader As SqlDataReader = command.ExecuteReader()
+                    Dim dataTable As New DataTable()
+                    dataTable.Load(reader)
+                    DataGridView1.DataSource = dataTable
+
+                End Using
+                connection.Close()
+            End Using
+        End Using
+    End Sub
+
+End Class

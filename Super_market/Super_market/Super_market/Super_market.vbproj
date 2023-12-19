@@ -171,5 +171,8 @@
   <ItemGroup>
     <None Include="Resources\Untitled_design__10_1.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-12-18 at 11.36.16_c4df2465.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

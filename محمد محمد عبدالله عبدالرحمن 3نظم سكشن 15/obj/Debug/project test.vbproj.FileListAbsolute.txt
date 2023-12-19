@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project test.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Form1.resources
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Form2.resources
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Resources.resources
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project test.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project test.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Form3.resources
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Form4.resources
+C:\Users\Lenovo\source\repos\project test\project test\bin\Debug\project_test.exe.config
+C:\Users\Lenovo\source\repos\project test\project test\bin\Debug\project_test.exe
+C:\Users\Lenovo\source\repos\project test\project test\bin\Debug\project_test.pdb
+C:\Users\Lenovo\source\repos\project test\project test\bin\Debug\project_test.xml
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.exe
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.xml
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.pdb
+C:\Users\Lenovo\source\repos\project test\project test\obj\Debug\project_test.Form5.resources

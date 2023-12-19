@@ -1,0 +1,15 @@
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.vbproj.AssemblyReference.cache
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.Form2.resources
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.Form3.resources
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.Form4.resources
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.cache
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.vbproj.CoreCompileInputs.cache
+D:\Projects SQL MET\restaurant\restaurant\restaurant\bin\Debug\restaurant.exe.config
+D:\Projects SQL MET\restaurant\restaurant\restaurant\bin\Debug\restaurant.exe
+D:\Projects SQL MET\restaurant\restaurant\restaurant\bin\Debug\restaurant.pdb
+D:\Projects SQL MET\restaurant\restaurant\restaurant\bin\Debug\restaurant.xml
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.exe
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.xml
+D:\Projects SQL MET\restaurant\restaurant\restaurant\obj\Debug\restaurant.pdb

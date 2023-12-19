@@ -37,6 +37,11 @@ Super_market
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Super_market.My.Resources.Resources.WhatsApp_Image_2023_12_18_at_11_36_16_c4df2465">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="T:Super_market.super_marketDataSet">
 <summary>
 Represents a strongly typed in-memory cache of data.
